@@ -1,11 +1,3 @@
-//
-//  BBSimpleCarthageUITests.swift
-//  BBSimpleCarthageUITests
-//
-//  Created by hnw on 2016/06/12.
-//  Copyright © 2016年 hnw. All rights reserved.
-//
-
 import XCTest
 
 class BBSimpleCarthageUITests: XCTestCase {
